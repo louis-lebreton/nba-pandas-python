@@ -45,7 +45,7 @@ def Scraping_sommaire_from_lien(site_team):
     return df3
 
 
-#cette fonction permet de récupérer le lien de la page du ième joueur
+#cette fonction permet de renvoyer le sommaire du ième joueur à partir du lien de la page des joueurs
 def Scraping_sommaire_players(i,varurl):
     
     #définition de l'url ou chercher les données :
