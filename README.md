@@ -1,11 +1,11 @@
-# Webscraping & exploitation de données NBA sous Python - Projet tutoré de DUT STID (Semestre 4)
+# Webscraping & exploitation des données de la NBA sous Python - Projet tutoré de DUT STID (Semestre 4)
 <p align="center">
-<img src="carte_taux_naissance_2016.jpg" alt="Carte des taux de naissance en 2016" width="500"/>
+<img src="logo_beautifulsoup.png" alt="Logo Beautifulsoup" width="400"/>
 </p>
 
 ### Données utilisées : 
 
-Données scrapées à partir du site : https://www.basketball-reference.com
+Données scrapées à partir du code source des pages web du site : https://www.basketball-reference.com
 
 
 
