@@ -1,11 +1,10 @@
-# Web scraping & exploitation des données de la NBA sous Python - Projet tutoré de DUT STID (Semestre 4)
+# Web Scraping & NBA Data Mining with Python
 <p align="center">
 <img src="logo_beautifulsoup.png" alt="Logo Beautifulsoup" width="400"/>
 </p>
 
-### Objectif : 
+### Goal: 
+Web scraping and data mining of NBA data scraped from the source code of web pages from the site: https://www.basketball-reference.com
 
-Web scraping et exploitation de données NBA scrapées à partir du code source des pages web du site : https://www.basketball-reference.com
-
-### Librairies utilisées :
+### Libraries used:
 pandas, bs4 / beautifulsoup, numpy, PyQt5, re, os.
